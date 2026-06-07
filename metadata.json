@@ -1,0 +1,6 @@
+{
+  "name": "WinVM Companion",
+  "description": "A fullscreen Windows emulation environment with .exe support and drive mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
